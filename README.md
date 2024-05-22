@@ -19,7 +19,7 @@ Check out the live demo [here](https://arc-ch.github.io/Unsplash-Image-Searcher/
 - HTML
 - CSS
 - JavaScript
-- Unsplash API(https://unsplash.com/developers)
+- Unsplash API
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
