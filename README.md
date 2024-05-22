@@ -13,7 +13,7 @@ The app is designed with a sleek, dark theme and is responsive across various de
 - **Image Captions**: Captions are displayed in sentence case for better readability.
 
 ## Live Demo
-Check out the live demo [here]((https://arc-ch.github.io/Unsplash-Image-Searcher/)).
+Check out the live demo [here](https://arc-ch.github.io/Unsplash-Image-Searcher/).
 
 ## Technologies Used
 - HTML
